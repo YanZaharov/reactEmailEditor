@@ -1,0 +1,32 @@
+{
+  "emails": [
+    {
+      "text": "a title",
+      "id": "d0bb"
+    },
+    {
+      "id": "ba03",
+      "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias natus dolore, est nostrum iure consectetur! Dolor, eaque tempora facere omnis magnam similique atque animi sapiente nihil architecto itaque alias soluta!"
+    },
+    {
+      "id": "e650",
+      "text": ""
+    },
+    {
+      "id": "0b9c",
+      "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias natus dolore, est nostrum iure consectetur! Dolor, eaque tempora facere omnis magnam similique atque animi sapiente nihil architecto itaque alias soluta!"
+    },
+    {
+      "id": "b39d",
+      "text": "<b>Hello, Vlad!!!!</b>\n<b>d</b>\n<b>dad</b>"
+    },
+    {
+      "id": "b7f6",
+      "text": "I <u>want</u> <b><i>Vlad</i></b>"
+    },
+    {
+      "id": "1751",
+      "text": "<b>Привет</b>\n<i>как</i> <u>дела?</u>"
+    }
+  ]
+}
